@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="oblivious:war">
+    <output-path>$PROJECT_DIR$/../oblivious/target</output-path>
+    <root id="archive" name="ob.war">
+      <element id="artifact" artifact-name="oblivious:war exploded" />
+    </root>
+  </artifact>
+</component>

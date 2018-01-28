@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+
+    <definition name="test.classic_act" template="/WEB-INF/view/test/class_test.jsp">
+        <put-attribute name="title" value ="测试页面"/>
+        <put-attribute name="header" value="/WEB-INF/view/test/header_test.jsp"/>
+        <put-attribute name="footer" value="/WEB-INF/view/test/footer_test.jsp"/>
+    </definition>
+
+
+
+</tiles-definitions>
